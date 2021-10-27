@@ -3,7 +3,7 @@
   become: yes
 
   vars:
-      package: 
+      package:
           - httpd
           - mariadb-server
           - php
