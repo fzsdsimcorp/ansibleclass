@@ -102,7 +102,6 @@
     debug:
       msg: "{{ webserver_pub_ip.state.ip_address }}"
 
-  - name: Add webserver to ssh known_hosts
 
 
 
